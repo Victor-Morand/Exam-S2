@@ -8,7 +8,9 @@ int main()
     
     Fougere->choix();
     
-   
+    Player * Botaniste = new Player();
+    
+    Botaniste->choix2();
 
     return 0;
 }
